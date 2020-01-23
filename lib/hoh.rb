@@ -59,7 +59,4 @@ def naming_system
 
 end
 
-# describe 'returns a giant HoH built from the PORTION_* constants that allows' do
-#         it 'its third sub_category to have the label "Order"' do
-#           starting_node = naming_system
-#           expect(starting_node[:sub_category][:sub_category][:sub_category][:label]).to eq("Order")
+
